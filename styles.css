@@ -1,0 +1,14 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lemonchiffon;
+}
+
+.titles{
+    text-align: center;
+    font-weight: bold;
+}
+
+.picDesc{
+    text-align: center;
+    font-weight: lighter;
+}
